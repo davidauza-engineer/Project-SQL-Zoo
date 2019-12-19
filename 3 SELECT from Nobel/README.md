@@ -1,0 +1,1 @@
+![](./3_SELECT_from_Nobel_quiz_results.png)
