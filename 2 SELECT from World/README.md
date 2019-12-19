@@ -1,0 +1,1 @@
+![](./2_SELECT_from_World_quiz_results.png)
